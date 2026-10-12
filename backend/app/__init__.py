@@ -1,0 +1,1 @@
+"""BRANDSHIELD AI backend package."""
